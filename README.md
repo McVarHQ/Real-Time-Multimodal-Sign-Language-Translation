@@ -55,7 +55,8 @@ The system proves the viability of **edge-deployable ASL recognition** and sets 
 ## 🎥 Demonstration
 
 Watch the prototype in action:  
-👉 [YouTube Demo – Real-Time ASL Detection](https://youtu.be/q9amnUtUOjI)
+[![YouTube Demo – Real-Time ASL Detection](https://img.youtube.com/vi/q9amnUtUOjI/0.jpg)](https://youtu.be/q9amnUtUOjI)
+
 
 ---
 
