@@ -55,7 +55,7 @@ The system proves the viability of **edge-deployable ASL recognition** and sets 
 ## 🎥 Demonstration
 
 Watch the prototype in action:  
-[![21BAI1499 | Real Time Multimodal Sign Language Detection Demo](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=q9amnUtUOjI "21BAI1499 | Real Time Multimodal Sign Language Detection Demo")
+[![21BAI1499 | Real Time Multimodal Sign Language Detection Demo](./images/thumbnail.png)](https://www.youtube.com/watch?v=q9amnUtUOjI "21BAI1499 | Real Time Multimodal Sign Language Detection Demo")
 
 
 ---
